@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hproj.html</title>
+    </head>
+    <body>
+    <table  align="center">
+            <thead>
+                <tr>
+                    <td>
+                        <img src="img/1.png" alt="img01.png" width="280px"/>
+                    </td>
+                    <td rowspan="3">
+                        <input type="text" name="text" style="width:400px;"/>
+                    </td>
+                    <td align="right">
+                        <img src="img/3.png" alt="img03.png" width="430px"/>
+                    </td>                   
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2"> <br> &nbsp; &nbsp; &nbsp; <b style="font-size:20px;">전체 카테고리 &nbsp; &nbsp; &nbsp; </b> 베스트 &nbsp; 슈퍼딜 &nbsp; 쿠폰·출첵 &nbsp; 스마일배송 &nbsp; Catch &nbsp; 스마일클럽</td>
+                    <td align="right"> <br> 로그인 | 회원가입 | 고객센터ㅣ
+                    <select>
+                        <option>Global</option>
+                        <option>English</option>
+                        <option>中文</option>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="9"> 
+                        <br> &nbsp; 브랜드패션<br>
+                        <br> &nbsp; 패션의류·잡화·뷰티
+                        <br>
+                        <br> &nbsp; 유아동 <br>
+                        <br> &nbsp; 식품·생필품 <br>
+                        <br> &nbsp; 홈데코·문구·취미·반려 <br>
+                        <br> &nbsp; 컴퓨터·디지털·가전 <br>
+                        <br> &nbsp; 스포츠·건강·렌탈 <br>
+                        <br> &nbsp; 자동차·공구 <br>
+                        <br> &nbsp; 여행·도서·티켓·e쿠폰 <br>
+                    </td>
+                    <td colspan="2" rowspan="9">
+                        <br><img src="img/2.png" alt="img02.png" width="1020px"/>
+                    </td>
+                </tr>
+                <tr></tr> <tr></tr> <tr></tr> <tr></tr> <tr></tr> <tr></tr> <tr></tr> <tr></tr> <tr></tr>
+                <tr>
+                    <td colspan="2"> <b style="font-size:24px;"> <br>지금 제일 잘 나가는 상품</b> </td>
+                    <td align="right"> <br>전체보기 <button>➔</button></td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <table>
+                            <tr>
+                                <td align="center"> <br> <img src="img/4.png" alt="img04.png" width="200px"/>
+                                <br>  &nbsp; [맥심](행사상품)N 동서식품_맥심 &nbsp; <br> 모카골드믹스_230T 2760G<br><b style="font-size:20px;">20,900원</b></td>
+                                <td align="center"> <br> <img src="img/5.png" alt="img05.png" width="180px"/>
+                                <br> &nbsp; 브리치x럭키567 봄 신상 티셔츠 &nbsp; <br>/니트/셔츠/팬츠 <br><b style="font-size:20px;">13,900원 </b></td>
+                                <td align="center"> <br><img src="img/6.png" alt="img06.png" width="180px"/>
+                                <br> &nbsp; &nbsp;[오설록]본사직영 프리미엄티&nbsp; &nbsp;<br>컬렉션  40입(8종x5입)<br><b style="font-size:20px;">19,650원 </b></td>
+                                <td align="center"> <br><img src="img/7.png" alt="img06.png" width="180px"/>
+                                <br> &nbsp; 더다다 봄신상 빅사이즈 롱티셔츠/  &nbsp;<br> 셔츠/원피스<br><b style="font-size:20px;">5,900원 </b></td>    
+                                <td align="center"> <br><img src="img/8.png" alt="img07.png" width="205px"/>
+                                <br> &nbsp;  푸마 반팔 트레이닝 티셔츠 23종&nbsp;&nbsp;<br>택 1 <br><b style="font-size:20px;">9,900원 </b></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                     <br><br>&nbsp; &nbsp; &nbsp; &nbsp; <img src="img/9.png" alt="img09.png" width="1200px"/></td>
+                </tr>
+                <tr>
+                    <td colspan="3"><br>
+                        <table>
+                            <tr>
+                                <td><img src="img/10.png" alt="img10.png" width="121px"/></td>
+                                <td> &nbsp;<b>전단상품</b> <br><br> &nbsp;창립기념 판계란(30입/대<br>&nbsp;란><br><b style="font-size:20px;">&nbsp;3,970원 </b></td>
+                                <td><img src="img/11.png" alt="img11.png" width="121px"/></td>
+                                <td> &nbsp;<b>전단상품</b> <br><br> &nbsp;19년도 햅쌀 초L) 농사꾼 &nbsp;&nbsp;<br>&nbsp;쌀(20KG/포) 지마켓<br><b style="font-size:20px;">&nbsp;48,910원 </b></td>
+                                <td><img src="img/12.png" alt="img12.png" width="121px"/></td>
+                                <td> &nbsp;<b>1</b> <br><br>&nbsp;<b>크리넥스</b> 유한킴벌리 칼로<br>&nbsp;리라이트 키친타월50매X4<br><b style="font-size:20px;">&nbsp;14,900원 </b></td>
+                                <td><img src="img/13.png" alt="img13.png" width="121px"/></td>
+                                <td> &nbsp;<b>2</b> <br><br>&nbsp;<b>오뚜기밥</b> 맛있는 오뚜기밥<br>&nbsp;210g x 24개입(1박스)<br><b style="font-size:20px;">&nbsp;17,500원 </b></td>
+                            </tr>
+                            <tr>
+                                <td><img src="img/14.png" alt="img14.png" width="121px"/></td>
+                                <td> &nbsp;<b>행사상품</b> <br><br> &nbsp;흙대파 (600G/봉)<br><br><b style="font-size:20px;">&nbsp;1,980원 </b></td>
+                                <td><img src="img/15.png" alt="img15.png" width="121px"/></td>
+                                <td> &nbsp;<b>행사상품</b> <br><br> &nbsp;초L)새송이버섯/봉<br><br><b style="font-size:20px;">&nbsp;1,290원 </b></td>
+                                <td><img src="img/16.png" alt="img16.png" width="121px"/></td>
+                                <td> &nbsp;<b>3</b> <br><br> &nbsp;<b>BYO</b> CJ BYO 20억 생유산<br>균 30포x3개 (총90포)<br><b style="font-size:20px;">&nbsp;21,900원 </b></td>
+                                <td><img src="img/17.png" alt="img17.png" width="121px"/></td>
+                                <td> &nbsp;<b>4</b> <br><br> &nbsp;<b>종근당</b>> 락토핏 생유산균 <br>골드 50포 3개<br><b style="font-size:20px;">&nbsp;38,900원 </b></td>
+                            </tr>
+                            <tr>
+                                <td><img src="img/18.png" alt="img18.png" width="121px"/></td>
+                                <td> &nbsp;<b>균일가</b> <br><br> &nbsp;초L 세이브우유 930ML 2<br>입기획<br><b style="font-size:20px;">&nbsp; 2,980원 </b></td>
+                                <td><img src="img/19.png" alt="img19.png" width="121px"/></td>
+                                <td> &nbsp;<b>균일가</b> <br><br> &nbsp;농심 양파링 84G<br><br><b style="font-size:20px;">&nbsp;990원 </b></td>
+                                <td><img src="img/20.png" alt="img20.png" width="121px"/></td>
+                                <td> &nbsp;<b>5</b> <br><br> &nbsp;<b>유한킴벌리</b> 스카트 THE 보<br>송 습기제거제 20개<br><b style="font-size:20px;">&nbsp;20,900원 </b></td>
+                                <td><img src="img/21.png" alt="img21.png" width="121px"/></td>
+                                <td> &nbsp;<b>6</b> <br><br> &nbsp;<b>크리넥스</b> 크리넥스 호호바<br>수딩로션 180매X3개X2팩<br><b style="font-size:20px;">&nbsp;13,900원 </b></td>
+                            </tr>
+                            <tr>
+                                <td colspan="4">
+                                    <br><input type="button" value="롯데프레시 바로가기➔" style="width:645px; height:50px;">
+                                </td>
+                                <td colspan="4">
+                                    <br><input type="button" value="무료배송 상품 더보기➔" style="width:647px; height:50px;">
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3"><br><br><b>알립니다</b> &nbsp; >  &nbsp; [발표] 『뭐 읽지? MOM's Choice 도서 투표』 이벤트 당첨자 | 2020-04-23</td>
+                </tr>
+                <tr>
+                    <br><td colspan="3"><br><br><img src="img/22.png" alt="img22.png" width="1310px"/></td>
+                </tr>
+             </tbody>
+             <tfoot>
+                 <tr>
+                     <td colspan="3"> <br> &nbsp;&nbsp;&nbsp;&nbsp; G마켓 소개&nbsp;&nbsp;|&nbsp;&nbsp;채용정보&nbsp;&nbsp;|&nbsp;&nbsp;이용약관&nbsp;&nbsp;|&nbsp;&nbsp;<b>개인정보처리방침</b>&nbsp;&nbsp;|&nbsp;&nbsp;청소년보호정책&nbsp;&nbsp;|&nbsp;&nbsp;전자금융거래약관&nbsp;&nbsp;|&nbsp;&nbsp;제휴·광고&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <select  style="height:30px;" name= "판매자서비스">
+                            <option>판매자서비스</option>
+                            <option>판매자(e딜러) 회원가입</option>
+                            <option>ESM PLUS(통합판매툴)</option>
+                            <option>판매자 교육센터</option>
+                            <option>판매자 광고샵</option>
+                            <option>판매자 공지사항</option>
+                            <option>쉽고 빠른 해외판매 (CBT)</option>
+                        </select> </td>
+                   </tr>
+             </tfoot>
+          
+        </table>
+    </body>
+</html>
